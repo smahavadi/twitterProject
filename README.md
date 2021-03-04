@@ -23,5 +23,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/ios_university/m9pn-51T.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/61363761/110029848-fa704380-7d02-11eb-8442-ff895825762e.mov' title='Video Logout Walkthrough' width='' alt='Video Logout Walkthrough' />
 
+<img src='https://media.giphy.com/media/ePwVzqlGRzOrhAGwSq/giphy.gif' title='Video Basic Walkthrough' width='' alt='Video Basic Walkthrough' />
+
+<img src='<img src='https://media.giphy.com/media/ePwVzqlGRzOrhAGwSq/giphy.gif' title='Video Bonus Walkthrough' width='' alt='Video Bonus Walkthrough' />' 
